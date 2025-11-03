@@ -1,8 +1,9 @@
-# Server Stats Script
-
 ## 🔗 Project URL
 [https://github.com/monnguyenx/Server-Performance-Stats](https://github.com/monnguyenx/Server-Performance-Stats)
 
+---
+
+# Server Stats Script
 ---
 
 ## 📘 Overview
@@ -53,3 +54,7 @@ crontab -e
 ```bash
 */30 * * * * /home/ubuntu/project/scripts/server-stats.sh >> /var/log/server_stats.log 2>&1
 ```
+
+---
+## 🔗 Project URL
+[https://github.com/monnguyenx/Server-Performance-Stats](https://github.com/monnguyenx/Server-Performance-Stats)
