@@ -1,4 +1,4 @@
-# https://roadmap.sh/projects/server-stats
+https://roadmap.sh/projects/server-stats
 
 ---
 
@@ -55,4 +55,4 @@ crontab -e
 ```
 
 ---
-https://github.com/monnguyenx/Server-Performance-Stats
+https://roadmap.sh/projects/server-stats
