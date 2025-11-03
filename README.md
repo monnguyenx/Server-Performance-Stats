@@ -28,10 +28,12 @@ Save the script as `server-stats.sh` in your preferred directory (e.g., `~/scrip
 ### 2. Give execute permission
 ```bash
 chmod +x server-stats.sh
+```
 
 ### 3. Run script
+```bash
 ./server-stats.sh
-
+```
 
 ---
 
@@ -41,7 +43,8 @@ Run every 30 minutes
 ### 1. Run using cron
 ```bash
 crontab -e
-
+```
 ### 2. Then add
+```bash
 */30 * * * * /home/ubuntu/project/scripts/server-stats.sh >> /var/log/server_stats.log 2>&1
-
+```
