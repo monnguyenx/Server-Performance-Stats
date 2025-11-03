@@ -1,5 +1,5 @@
-## 🔗 Project URL
-[https://github.com/monnguyenx/Server-Performance-Stats](https://github.com/monnguyenx/Server-Performance-Stats)
+https://github.com/monnguyenx/Server-Performance-Stats
+
 
 ---
 
@@ -56,5 +56,4 @@ crontab -e
 ```
 
 ---
-## 🔗 Project URL
-[https://github.com/monnguyenx/Server-Performance-Stats](https://github.com/monnguyenx/Server-Performance-Stats)
+https://github.com/monnguyenx/Server-Performance-Stats
