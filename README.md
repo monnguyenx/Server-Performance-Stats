@@ -1,5 +1,10 @@
 # Server Stats Script
 
+## 🔗 Project URL
+[https://github.com/monnguyenx/Server-Performance-Stats](https://github.com/monnguyenx/Server-Performance-Stats)
+
+---
+
 ## 📘 Overview
 `server-stats.sh` is a Bash script that analyzes and displays basic server performance statistics.  
 It can be executed on any Linux machine and provides quick insights into CPU, memory, disk, and process usage.
